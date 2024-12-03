@@ -1,7 +1,7 @@
 
 # README - Treinamento de Modelo ADALINE para Classificação Binária
 
-Este projeto implementa a aprendizagem de um modelo **ADALINE** (Adaptive Linear Neuron) para classificação binária. O modelo é treinado usando um arquivo de dados CSV, onde as características são usadas para prever a classe binária de um dataset sobre a qualidade de determinados vinhos (https://www.kaggle.com/datasets/yasserh/wine-quality-dataset?resource=download).
+Este projeto implementa a aprendizagem de um modelo **ADALINE** (Adaptive Linear Neuron) para classificação binária com base no modelo fornecido em https://github.com/TheAlgorithms/C/blob/e5dad3fa8def3726ec850ca66a7f51521f8ad393/machine_learning/adaline_learning.c. O modelo é treinado usando um arquivo de dados CSV, onde as características são usadas para prever a classe binária de um dataset sobre a qualidade de determinados vinhos (https://www.kaggle.com/datasets/yasserh/wine-quality-dataset?resource=download).
 
 ## Funcionalidades:
 
