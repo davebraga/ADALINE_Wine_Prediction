@@ -9,6 +9,7 @@
 #include <string>
 #include <vector>
 #include <limits.h>
+#include <cstring>  // Adicionando a biblioteca para usar strlen
 
 /** Constantes */
 #define MAX_ADALINE_ITER 500
