@@ -11,6 +11,14 @@
 #include <sstream>
 #include <iostream>
 
+/** TEMPOS
+ * Sequencial:
+ * Paralelo (1T):
+ * Paralelo (2T):
+ * Paralelo (4T):
+ * Paralelo (8T):
+/**
+
 /**
  * @addtogroup machine_learning Machine learning algorithms
  * @{
