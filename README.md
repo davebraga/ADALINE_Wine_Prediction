@@ -4,8 +4,8 @@
 **Membros do grupo**: 
 
 - Daniel Lucas Murta
-- Davi Lorenzo Gambirra Braga
-- Daniel Lucas Murta
+- Davi Lorenzo Bambirra Braga
+- Felipe Augusto Morais Silva
 - Pedro Henrique Lopes Costa
 
 Este projeto implementa a aprendizagem de um modelo **ADALINE** (Adaptive Linear Neuron) para classificação binária com base no modelo fornecido em https://github.com/TheAlgorithms/C/blob/e5dad3fa8def3726ec850ca66a7f51521f8ad393/machine_learning/adaline_learning.c. O modelo é treinado usando um arquivo de dados CSV, onde as características são usadas para prever a classe binária de um dataset sobre a qualidade de determinados vinhos (https://www.kaggle.com/datasets/yasserh/wine-quality-dataset?resource=download).
