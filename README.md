@@ -41,17 +41,17 @@ A coluna "quality" é convertida em uma classificação binária:
 2. **Compile o código** com o seguinte comando:
 
    ```bash
-   g++ -o adaline_classifier main.cpp -std=c++11
+   g++ -o adaline adaline.cpp -std=c++11
    ```
 
-   Isso irá gerar o arquivo executável `adaline_classifier`.
+   Isso irá gerar o arquivo executável `adaline`.
 
 ## Execução do Código:
 
 Após compilar o código, você pode **executar** o programa com o seguinte comando:
 
 ```bash
-./adaline_classifier <arquivo_dados.csv> <taxa_de_aprendizado>
+./adaline <arquivo_dados.csv> <taxa_de_aprendizado>
 ```
 
 Onde:
@@ -61,7 +61,7 @@ Onde:
 ### Exemplo de Execução:
 
 ```bash
-./adaline_classifier dados.csv 0.01
+./adaline dados.csv 0.01
 ```
 
 Isso executará o programa com o arquivo `dados.csv` e a taxa de aprendizado de `0.01`.
